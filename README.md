@@ -2,30 +2,11 @@
 # RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL
 <div align="center">
 <div align="center">
-   Recipe App
+   Barber App
 </div>
 
 
 <br>
-<table align="center">
-    <tr>
-<!--         <th style="text-align:center">
-            <a href="">
-                <img src="https://cdn.svgporn.com/logos/youtube-icon.svg" width="40">
-            </a>
-        </th> -->
-        <th style="text-align:center">
-            <a href="https://www.instagram.com/knantaufik">
-                <img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="40">
-            </a>
-        </th>
-<!--         <th style="text-align:center">
-            <a href="#">
-                <img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="30">
-            </a>
-        </th> -->
-    </tr>
-</table>
 <br>
 
 ## Requirements
