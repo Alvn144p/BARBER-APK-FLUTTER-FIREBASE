@@ -112,7 +112,7 @@ flutter pub get
 ```sh
   > Version 1.0, June 2024
 
-  > Copyright (C) [2024] [Mqiu Developers]
+  > Copyright (C) [2024] [Alvn144p Developers]
 
   > THANKS
   > Alfianto Faidatul Aldi Yumardiansyah
