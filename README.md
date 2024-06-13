@@ -91,12 +91,12 @@ flutter pub get
     <tr>
         <th style="text-align:center">
             <a href="">
-                <img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-230901.jpg" height="500" width="600" />
+                <img src="https://github.com/Alvn144p/BARBER-APK-FLUTTER-FIREBASE/blob/main/screenshot/WhatsApp%20Image%202024-06-13%20at%2021.28.23_7fa20caf.jpg" height="500" width="600" />
             </a>
         </th>
         <th style="text-align:center">
             <a href="#">
-                <img src="https://github.com/2030XMQiu/RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL/blob/main/Screenshot/Screenshot_20240610-232055.jpg" height="500" width="600" />
+                <img src="https://github.com/Alvn144p/BARBER-APK-FLUTTER-FIREBASE/blob/main/screenshot/WhatsApp%20Image%202024-06-13%20at%2021.28.24_4e0065aa.jpg" height="500" width="600" />
             </a>
         </th>
     </tr>
