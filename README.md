@@ -1,12 +1,6 @@
 # BARBER-APK-FLUTTER-FIREBASE
 # RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL
 <div align="center">
-
-  ### <img src="https://avatars.githubusercontent.com/u/76401666?s=400&u=53e72048830573e02e46e62b6fb1123b2ac59562&v=4" height="100px"/> 
-
-  ***2030XMqiu***
-</div>
-
 <div align="center">
    Recipe App
 </div>
