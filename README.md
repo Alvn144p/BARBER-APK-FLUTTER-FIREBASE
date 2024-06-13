@@ -21,7 +21,7 @@
   Copy and paste file into your project
 ```
 ### Edit pubspec.yaml
-```
+
   dependencies:
   flutter:
     sdk: flutter
@@ -31,7 +31,7 @@
   random_string: ^2.3.1
   shared_preferences: ^2.2.3
   cupertino_icons: ^1.0.6
-```
+
 ```
   assets:
     - images/
