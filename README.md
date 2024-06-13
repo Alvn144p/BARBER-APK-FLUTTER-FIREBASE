@@ -118,7 +118,7 @@ flutter pub get
   > Alfianto Faidatul Aldi Yumardiansyah
   > Ardyka Bayu Reovan
   > Indah Khoirun Nisa
-  > Nailus Sai'dah Anindia Septiana
+  > Nailus Saidah Anindia Septiana
 
   Everyone is permitted to copy and distribute verbatim or modified
   copies of this license document.
