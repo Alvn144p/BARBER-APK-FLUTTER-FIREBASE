@@ -1,5 +1,4 @@
 # BARBER-APK-FLUTTER-FIREBASE
-# RECIPE-APP-FLUTTER-WITH-ADMIN-PANEL
 <div align="center">
 
    Barber App
