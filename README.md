@@ -119,8 +119,4 @@ flutter pub get
   > Ardyka Bayu Reovan
   > Indah Khoirun Nisa
   > Nailus Saidah Anindia Septiana
-
-  Everyone is permitted to copy and distribute verbatim or modified
-  copies of this license document.
-
 ```
